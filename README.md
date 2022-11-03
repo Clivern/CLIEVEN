@@ -9,9 +9,8 @@ This repository contains my solutions for the Advent of Code challenges.
 |-----|----------|-------------|
 | 1   |  Rust    | Basics      |
 | 2   |  Golang  | Basics      |
-| 2   |  Elixir  | Basics      |
-| 2   |  Kotlin  | Basics      |
-| 2   |  Rust    | Basics      |
+| 3   |  Elixir  | Basics      |
+| 4   |  Kotlin  | Basics      |
 ...
 
 
