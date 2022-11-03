@@ -8,6 +8,9 @@ This repository contains my solutions for the Advent of Code challenges.
 | Day | Language | Description |
 |-----|----------|-------------|
 | 1   |  Rust    | Basics      |
+| 2   |  Golang  | Basics      |
+| 2   |  Elixir  | Basics      |
+| 2   |  Kotlin  | Basics      |
 | 2   |  Rust    | Basics      |
 ...
 
@@ -20,4 +23,3 @@ This repository contains my solutions for the Advent of Code challenges.
 - Golang
 - Kotlin
 - Rust
-
