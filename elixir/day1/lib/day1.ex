@@ -1,4 +1,4 @@
-defmodule ElixirBasics do
+defmodule Day1 do
   # Defining a struct
   defstruct name: "John Doe", age: 30
 
@@ -66,7 +66,7 @@ defmodule ElixirBasics do
     |> IO.inspect(label: "Filtered and doubled")
 
     # Using the struct
-    person = %ElixirBasics{name: "Alice", age: 25}
+    person = %Day1{name: "Alice", age: 25}
     IO.inspect(person, label: "Person struct")
 
     # Pattern matching with maps
@@ -100,4 +100,4 @@ defmodule ElixirBasics do
 end
 
 # Run the main function
-ElixirBasics.main()
+Day1.main()
