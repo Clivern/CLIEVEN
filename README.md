@@ -11,6 +11,7 @@ This repository contains my solutions for the Advent of Code challenges.
 | 1   |  Golang  | Basics      |
 | 1   |  Elixir  | Basics      |
 | 1   |  Kotlin  | Basics      |
+| 1   |  Python  | Basics      |
 ...
 
 
