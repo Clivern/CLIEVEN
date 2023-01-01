@@ -25,9 +25,8 @@ $ systemctl disable systemd-resolved.service
 
 4. Use cloudflare DNS
 
-```
+```zsh
 $ vim /etc/resolv.conf
-
 ```
 
 ```
