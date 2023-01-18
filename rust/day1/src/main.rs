@@ -32,6 +32,13 @@ fn main() {
     println!("Hello, {}!", "world");
     print!("Hello, world!\n");
 
+    let name = "John";
+    let game = "football";
+
+    println!("{name} like to play {game}", name = name, game = game);
+    println!("{} like to play {}", name, game);
+    println!("Binary: {:b} - Hex: {:x} - Octal {:o}", 10, 10, 10);
+
     // Variables and mutability
     let immutable_var1 = 5;
     let mut mutable_var1 = 10;
